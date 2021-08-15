@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alejandr099
 - 👀 I’m interested in IT world, Esport, Ruby and Ralis.
-- 🌱 I’m currently learning Ruby, Rails, Python, SQL.
+- 🌱 I’m currently learning Ruby (and Rails), Python, SQL.
 - 💞️ I’m looking to collaborate on great projects with great people.
 - 📫 How to reach me?
 
