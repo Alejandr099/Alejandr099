@@ -6,7 +6,6 @@
 
   - ***E-mail:***   aleksander.wozniczka99@gmail.com
   - ***Discord:***  alejandr0#5290
-  - ***Steam:***    [alejandr0](https://steamcommunity.com/id/hugo_boss/)
 
 
 <!---
